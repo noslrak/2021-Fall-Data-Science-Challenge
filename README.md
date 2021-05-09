@@ -1,1 +1,1 @@
-# 2021-Fall-Data-Science-Challenge
+# 2021 Fall Data Science Challenge
